@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on - Japanese learning web applciation built with React (hoping to have live before 2023)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chdonncha&theme=dracula&show_icons=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
