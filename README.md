@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on - Japanese learning web applciation built with React (hoping to have live before 2024)
+🔭 I’m currently working on - Japanese learning web application built with React (hoping to have live before 2024)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chdonncha&theme=dracula&show_icons=true&hide=stars,prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
