@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on - Japanese learning web application built with React (hoping to have it live before 2024)
+🛠️ Projects -
+https://chdonncha.github.io/ascii-tree-builder/
+https://chdonncha.github.io/KanaEigo
 
 [![Anurag's GitHub stats](https://github-readme-stats-topaz-rho.vercel.app/api?username=chdonncha&theme=dracula&show_icons=true&hide=stars,prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
