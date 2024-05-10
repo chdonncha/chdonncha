@@ -2,7 +2,7 @@
 
 🛠️ Projects -
 <br>https://chdonncha.github.io/ascii-tree-builder-v2/
-https://chdonncha.github.io/react-city-builder/ 🚧 WIP
+<br>https://chdonncha.github.io/react-city-builder/ 🚧 WIP
 <br>https://chdonncha.github.io/KanaEigo 🚧 WIP
 
 [![Anurag's GitHub stats](https://github-readme-stats-topaz-rho.vercel.app/api?username=chdonncha&theme=dracula&show_icons=true&hide=stars,prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
